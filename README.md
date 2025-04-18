@@ -1,4 +1,4 @@
-# Batalha de Cartas - Super Trunfo em C
+i# Batalha de Cartas - Super Trunfo em C
 
 Este projeto é uma simulação de batalha de cartas no estilo **Super Trunfo**, desenvolvido na linguagem **C**. O programa permite comparar duas cartas com base em atributos como população, área, PIB, pontos turísticos, densidade populacional, PIB per capita e um cálculo especial chamado **Super Poder**.
 
@@ -55,6 +55,4 @@ Compilador GCC (ou qualquer outro compatível)
 Este projeto foi proposto como um desafio de programação para aprofundar o conhecimento em C, estruturando dados e utilizando lógica matemática e comparativa entre structs.
 
 ## ✍️ Autor
-Desenvolvido por [Seu Nome Aqui]
-Curso: [Seu Curso/Fundação/Faculdade]
-GitHub: https://github.com/seuusuario
+Desenvolvido por Kelvin Viana Leal Piantino
